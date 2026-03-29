@@ -17,7 +17,16 @@ pnpm dev
 pnpm check
 pnpm build
 pnpm start
+pnpm deploy:netlify
 ```
+
+## Demo routes
+
+- `/`
+- `/settings`
+- `/billing`
+- `/operations`
+- `/architecture`
 
 ## Why this starter exists
 
@@ -30,3 +39,9 @@ Official references:
 - [SDK](https://ai.contentrain.io/packages/sdk.html)
 - [Docs](https://docs.contentrain.io/)
 - [Studio](https://studio.contentrain.io/)
+
+## Deploy
+
+- Netlify build command: `pnpm deploy:netlify`
+- Netlify publish directory: framework-managed
+- Keep the publish directory empty in the Netlify UI and let the Next.js runtime be detected automatically
