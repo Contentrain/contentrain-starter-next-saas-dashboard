@@ -4,6 +4,10 @@
 
 Product-surface starter for teams that want Contentrain to own dashboard UI copy, settings surfaces, billing plans, and operational messaging instead of scattering strings across components.
 
+![Contentrain Next SaaS Dashboard cover](./media/cover.png)
+
+![Contentrain Next SaaS Dashboard preview](./media/preview.gif)
+
 ## Start
 
 ```bash
