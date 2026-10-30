@@ -38,5 +38,6 @@
   },
   "i18n": true,
   "id": "work-queue-item",
-  "kind": "collection"
+  "kind": "collection",
+  "title_field": "title"
 }
